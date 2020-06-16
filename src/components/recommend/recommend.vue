@@ -19,7 +19,7 @@
 
             <!--推荐列表部分-->
             <div class="recommend-list">
-              <h1 class="list-title">热门歌单推荐1111</h1>
+              <h1 class="list-title">热门歌单推荐</h1>
               <ul>
                 <li class="item" v-for="item in discList">
                   <div class="icon">
